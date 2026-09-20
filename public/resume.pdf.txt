@@ -1,0 +1,6 @@
+<!--
+  PLACEHOLDER: Add the real resume file here as `resume.pdf`.
+  This file exists so the Download Resume buttons have a valid target during development.
+  Replace this file with the actual resume PDF and delete this note.
+-->
+Resume placeholder. Replace public/resume.pdf with the real resume.

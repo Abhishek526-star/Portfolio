@@ -1,0 +1,35 @@
+export const education = [
+  {
+    degree: 'B.Tech — Computer Science & Engineering',
+    school: 'Madan Mohan Malaviya University of Technology',
+    location: 'Gorakhpur, Uttar Pradesh',
+    duration: '2023–2027',
+    score: '8.33 CGPA',
+    coursework: [
+      'Data Structures & Algorithms',
+      'Object-Oriented Programming',
+      'Database Management Systems',
+      'Computer Networks',
+      'Operating Systems',
+      'Compiler Design',
+      'Software Engineering',
+    ],
+  },
+  {
+    degree: 'Senior Secondary (Class XII) — Science (PCM)',
+    school: 'Jawahar Navodaya Vidyalaya',
+    location: 'Shahjahanpur, Uttar Pradesh',
+    duration: '2022',
+    score: '80%',
+    stream: 'PCM',
+    coursework: ['Physics', 'Chemistry', 'Mathematics', 'English', 'Hindi'],
+  },
+  {
+    degree: 'Secondary School Examination (Class X)',
+    school: 'Jawahar Navodaya Vidyalaya',
+    location: 'Shahjahanpur, Uttar Pradesh',
+    duration: '2020',
+    score: '83.25%',
+    coursework: ['Mathematics', 'Science', 'English', 'Social Science', 'Hindi'],
+  },
+]
