@@ -1,199 +1,479 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-# ⚡ Abhishek Kumar — Developer Portfolio & Dashboard
+<h1 align="center">⚡ Abhishek Kumar</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer • MERN Stack Architect • AI/GenAI Enthusiast</strong>
+  <strong>Full-Stack Developer • MERN Stack • AI/GenAI Enthusiast</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abhishek526-star/Portfolio"><img src="https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></a>
-  <a href="https://github.com/Abhishek526-star/Portfolio"><img src="https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://github.com/Abhishek526-star/Portfolio"><img src="https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-  <a href="https://github.com/Abhishek526-star/Portfolio"><img src="https://img.shields.io/badge/Node.js-Nodemailer-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://github.com/Abhishek526-star/Portfolio"><img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
+  Building scalable web applications, interactive experiences,
+  and AI-powered solutions.
 </p>
 
 <p align="center">
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-interactive-developer-dashboard">Developer Dashboard</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-backend--gmail-smtp">Backend & Email</a> •
-  <a href="#-deployment">Deployment</a>
+  <a href="https://github.com/Abhishek526-star">
+    <img src="https://img.shields.io/badge/GitHub-Abhishek526--star-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-521446294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Abhishek_2k4/">
+    <img src="https://img.shields.io/badge/LeetCode-Abhishek_2k4-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Abhishek526-star/Portfolio?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/forks/Abhishek526-star/Portfolio?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/Abhishek526-star/Portfolio?style=flat-square&logo=github" />
 </p>
 
 ---
 
-</div>
+## 🌐 Live Portfolio
 
-## 🌟 Overview
+<p align="center">
 
-A modern, high-performance developer portfolio and **Interactive Engineering Dashboard** built for technical recruiters, engineering leaders, and collaborators. Engineered with zero placeholder fluff, grounded in real production applications, verified algorithmic competencies, live GitHub activity, and a secure serverless backend.
+### 🚀 [Visit My Portfolio](https://github.com/Abhishek526-star/Portfolio)
+
+</p>
+
+---
+
+## ✨ About the Project
+
+This portfolio is more than a traditional personal website.
+
+It is designed as an **Interactive Engineering Dashboard** that presents:
+
+- 👨‍💻 Developer profile and technical skills
+- 📊 Coding and DSA progress
+- 🐙 GitHub repository activity
+- 🚀 Featured projects and case studies
+- 🧠 Current learning roadmap
+- 💼 Internship and development experience
+- 📬 Functional contact system
+- 👁️ Live visitor/view counter
+- 🌓 Dark / Light theme
+- ⌨️ Keyboard-driven navigation
+
+The portfolio focuses on presenting **real projects, measurable coding progress, and practical engineering experience**.
 
 ---
 
-## ✨ Key Features
-
-- 📊 **Interactive Developer Dashboard**:
-  - **Live GitHub Sync**: Real-time repository insights and dynamic programming language breakdown (JavaScript, CSS, Python, C++, HTML).
-  - **Multi-Platform DSA Progress Chart**: Verified problem solving metrics across **Striver's A2Z DSA Sheet** (153/1111), **LeetCode** (266 solved via live sync), and **GeeksforGeeks** (120 solved).
-  - **Engineering Roadmap**: Verified milestones across MERN architectures, Generative AI agents, and 3D web visualizations.
-- 🎨 **Rich Modern Aesthetics & Physics**:
-  - **Interactive Particle Background**: Floating ambient canvas particles that react to cursor movement and viewport dynamics.
-  - **3D Perspective Tilt Cards**: Physics-based gyro/mouse tilt using `framer-motion`.
-  - **Sleek Dark / Light Theme**: Seamless CSS custom variable design system with persistent state.
-- ⌨️ **Quick Command Palette (`Ctrl + K` / `Cmd + K`)**:
-  - Instant spotlight search for quick navigation to projects, case studies, social profiles, and sections.
-- 📬 **Secure Node.js & Nodemailer Backend**:
-  - Direct **Gmail SMTP** serverless delivery (`/api/contact`) sending inquiries directly to inbox with client reply-to routing and honeypot spam protection.
-- 📈 **Live View Counter**:
-  - Dynamic visitor counter with ease-out number count-up animation and privacy-first local storage caching.
-- 📱 **100% Responsive & Accessible**:
-  - Optimized for desktop, tablet, and mobile screens with touch-friendly pill capsule navigation docks.
-
----
+# 🚀 Key Features
 
 ## 📊 Interactive Developer Dashboard
 
-The portfolio features a dedicated, production-grade **Developer Dashboard** divided into 4 interactive tabs:
+A dedicated dashboard provides an overview of development activity and technical progress.
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  [ Overview ]  [ GitHub & Repos ]  [ DSA Practice ]  [ Focus Roadmap ] │
-├────────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│  • Public Repos: 15+                  • Production Web Apps: 5+        │
-│  • Striver DSA Progress: 153 / 1111   • BEL Industrial Internship      │
-│                                                                        │
-│  • GitHub Language Breakdown (Live % calculation across repos)         │
-│  • Multi-Tier Difficulty Rings: Easy (74) | Medium (53) | Hard (26)    │
-│  • Platform Switchers: Striver's Sheet | LeetCode | GeeksforGeeks      │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+### Dashboard Sections
 
----
+- **Overview**
+- **GitHub & Repositories**
+- **DSA Practice**
+- **Focus Roadmap**
 
-## 🚀 Featured Projects
+### Dashboard Highlights
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :--- |
-| **PharmaPlus** | `React`, `Node.js`, `Express`, `MongoDB`, `Gemini AI` | Full-stack pharmacy management with automated stock tracking & Gemini AI medicine recognition. | [Live Demo](https://pharmaplus-frontend.vercel.app/) • [Source](https://github.com/Abhishek526-star/Pharma-Plus) |
-| **Campus Connect** | `React 19`, `Socket.IO`, `Redux Toolkit`, `Express 5` | Centralized campus ecosystem with real-time room chats and dynamic QR attendance scanning. | [Live Demo](https://campus-connect-client-yoxc.vercel.app/) • [Source](https://github.com/Abhishek526-star/Campus-Connect) |
-| **Accenture Ready** | `React`, `Vite`, `Tailwind`, `Monaco Editor` | Recruitment assessment engine with in-browser code compiler simulation & DSA patterns. | [Live Demo](https://accenturemind.vercel.app/) • [Source](https://github.com/Abhishek526-star/Accenture-Ready) |
-| **Expense Tracker** | `React`, `Node.js`, `Express`, `MongoDB`, `JWT` | Personal finance tracker with categorical breakdowns, charts, and MongoDB aggregation pipelines. | [Live Demo](https://expense-manager-frontend-9wjd.onrender.com/) • [Source](https://github.com/Abhishek526-star/Expense-Manager) |
-| **Tic Tac Toe** | `HTML5`, `CSS3`, `JavaScript`, `Audio API` | Interactive two-player & AI game with win-condition algorithms, score tracking & sound effects. | [Live Demo](https://abhishek526-star.github.io/Tic-Tac-Toe-/) • [Source](https://github.com/Abhishek526-star/Tic-Tac-Toe-) |
+- 🐙 Live GitHub repository insights
+- 📈 Programming-language distribution
+- 🧩 DSA progress tracking
+- 💻 Production project count
+- 🎯 Engineering roadmap
+- 📚 Learning milestones
+
+The dashboard tracks coding progress across platforms including **Striver's A2Z DSA Sheet, LeetCode, and GeeksforGeeks**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎨 UI & Interaction
 
-- **Frontend Core**: React 18, Vite 5, JavaScript (ESNext)
-- **Styling**: Vanilla CSS Variables Design System + Tailwind CSS v4
-- **Motion & Interactions**: Framer Motion, HTML5 Canvas 2D
-- **Icons**: Lucide React
-- **Routing**: React Router DOM (v6) with deep-linked case studies
-- **Backend & Serverless**: Node.js, Nodemailer (Gmail SMTP:465)
-- **Deployment**: Vercel Edge & Serverless Functions
+The portfolio uses a modern interactive interface with several visual effects.
+
+### ✨ Interactive Features
+
+- 🌌 Animated particle background
+- 🖱️ Mouse-responsive particle interactions
+- 🎴 3D perspective tilt cards
+- 🎬 Smooth Framer Motion animations
+- 🌓 Dark / Light theme
+- ⌨️ Command Palette
+- 📱 Responsive navigation
+- 🔢 Animated counters
+- 🎯 Interactive project cards
+
+### ⌨️ Command Palette
+
+Press:
+
+```text
+Ctrl + K
+```
+
+or on macOS:
+
+```text
+Cmd + K
+```
+
+to quickly navigate through projects, sections, case studies, and social profiles.
 
 ---
 
-## 📁 Repository Structure
+# 🚀 Featured Projects
 
-```
+| Project | Technologies | Description |
+|---|---|---|
+| 💊 **PharmaPlus** | React, Node.js, Express, MongoDB, Gemini AI | Full-stack pharmacy management platform with inventory management and AI-powered medicine recognition. |
+| 🎓 **Campus Connect** | React 19, Socket.IO, Redux Toolkit, Express 5 | Campus ecosystem with real-time communication and QR-based attendance. |
+| 🎯 **Accenture Ready** | React, Vite, Tailwind, Monaco Editor | Interactive recruitment preparation and assessment platform with DSA practice. |
+| 💰 **Expense Tracker** | React, Node.js, Express, MongoDB, JWT | Personal finance management application with charts, categories, and MongoDB aggregation. |
+| 🎮 **Tic Tac Toe** | HTML, CSS, JavaScript, Audio API | Interactive Tic Tac Toe game with scoring, sound effects, and game logic. |
+
+### 🔗 Project Links
+
+**PharmaPlus**
+
+- [Live Demo](https://pharmaplus-frontend.vercel.app/)
+- [Source Code](https://github.com/Abhishek526-star/Pharma-Plus)
+
+**Campus Connect**
+
+- [Live Demo](https://campus-connect-client-yoxc.vercel.app/)
+- [Source Code](https://github.com/Abhishek526-star/Campus-Connect)
+
+**Accenture Ready**
+
+- [Live Demo](https://accenturemind.vercel.app/)
+- [Source Code](https://github.com/Abhishek526-star/Accenture-Ready)
+
+**Expense Tracker**
+
+- [Live Demo](https://expense-manager-frontend-9wjd.onrender.com/)
+- [Source Code](https://github.com/Abhishek526-star/Expense-Manager)
+
+**Tic Tac Toe**
+
+- [Live Demo](https://abhishek526-star.github.io/Tic-Tac-Toe-/)
+- [Source Code](https://github.com/Abhishek526-star/Tic-Tac-Toe-)
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+- React 18
+- Vite 5
+- JavaScript / ESNext
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### 🎬 UI & Animation
+
+- Framer Motion
+- HTML5 Canvas
+- Lucide React
+
+### 🧭 Routing
+
+- React Router DOM
+
+### ⚙️ Backend
+
+- Node.js
+- Nodemailer
+- Gmail SMTP
+- Vercel Serverless Functions
+
+### 🚀 Deployment
+
+- Vercel
+- GitHub
+
+---
+
+# 📁 Project Structure
+
+```text
 Portfolio/
+│
 ├── api/
-│   └── contact.js               # Serverless Gmail SMTP handler (Nodemailer)
+│   └── contact.js
+│
 ├── public/
-│   ├── PharmaPlus.png           # Project screenshots
+│   ├── PharmaPlus.png
 │   ├── Campus Connect.png
 │   ├── AccenturReady.png
 │   ├── ExpenseTracker.png
 │   ├── Tic tac toe.png
-│   ├── resume.pdf               # Verified resume document
-│   ├── robots.txt & sitemap.xml # SEO configuration
+│   ├── resume.pdf
+│   ├── robots.txt
+│   ├── sitemap.xml
 │   └── favicon.svg
+│
 ├── src/
 │   ├── components/
-│   │   ├── layout/              # Navbar (dock pill), Footer
-│   │   ├── sections/            # Hero, About, Skills, Experience, Projects,
-│   │   │                        # DeveloperDashboard, Education, Contact
-│   │   └── ui/                  # DsaInteractiveChart, ProjectCard, ProjectModal,
-│   │                            # CommandPalette, GlobalBubblesCanvas, TiltCard
+│   │   ├── layout/
+│   │   ├── sections/
+│   │   └── ui/
+│   │
 │   ├── data/
-│   │   ├── profile.js           # Identity, socials, bio
-│   │   ├── dashboard.js         # Verified stats, LeetCode, Striver, milestones
-│   │   ├── projects.js          # Detailed project specifications & case studies
-│   │   └── skills.js            # Categorized skills matrix
-│   ├── hooks/                   # useScrollSpy, useViewCount, useCountUp
-│   └── main.jsx                 # App root mounting
-├── vercel.json                  # Production SPA & /api serverless routing
-└── vite.config.js               # Vite config with local /api/contact dev middleware
+│   │   ├── profile.js
+│   │   ├── dashboard.js
+│   │   ├── projects.js
+│   │   └── skills.js
+│   │
+│   ├── hooks/
+│   │   ├── useScrollSpy.js
+│   │   ├── useViewCount.js
+│   │   └── useCountUp.js
+│   │
+│   └── main.jsx
+│
+├── .env.example
+├── package.json
+├── vercel.json
+├── vite.config.js
+└── README.md
 ```
 
 ---
 
-## ⚡ Quick Start
+# ⚡ Getting Started
 
-### 1. Clone the repository
+## 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/Abhishek526-star/Portfolio.git
 cd Portfolio
 ```
 
-### 2. Install dependencies
+## 2️⃣ Install Dependencies
+
 ```bash
 npm install
 ```
 
-### 3. Configure Environment Variables
-Copy `.env.example` to `.env`:
+## 3️⃣ Configure Environment Variables
+
+Create a `.env` file based on `.env.example`:
+
 ```bash
 cp .env.example .env
 ```
-Add your Gmail credentials for the contact form:
+
+Configure the required variables:
+
 ```env
-GMAIL_USER=abhishekkumar63871@gmail.com
+GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASS=your_16_digit_app_password
 ```
 
-### 4. Run development server
+> ⚠️ Never commit your `.env` file or Gmail App Password to GitHub.
+
+## 4️⃣ Start Development Server
+
 ```bash
 npm run dev
 ```
-Open **[http://localhost:5173](http://localhost:5173)** in your browser.
+
+Open:
+
+```text
+http://localhost:5173
+```
 
 ---
 
-## 📬 Backend & Gmail SMTP
+# 📬 Contact Form Backend
 
-The contact form is powered by a serverless backend ([`api/contact.js`](api/contact.js)) using **Nodemailer**:
-1. When a visitor submits a message, the client posts to `/api/contact`.
-2. In local development, [`vite.config.js`](vite.config.js) dev middleware processes the request.
-3. In production on Vercel, the function runs on Vercel's serverless infrastructure.
-4. Emails are delivered via SSL (`smtp.gmail.com:465`) with the visitor's email set as `replyTo`.
+The portfolio includes a serverless contact system powered by:
+
+```text
+React
+   │
+   ▼
+/api/contact
+   │
+   ▼
+Node.js + Nodemailer
+   │
+   ▼
+Gmail SMTP
+   │
+   ▼
+Inbox
+```
+
+### How it works
+
+1. Visitor submits the contact form.
+2. The frontend sends the request to `/api/contact`.
+3. The backend processes the request using Nodemailer.
+4. Gmail SMTP delivers the message.
+5. The visitor's email is configured as the reply-to address.
 
 ---
 
-## 🚀 Deployment
+# 👁️ Live View Counter
 
-### Deploy to Vercel (Recommended)
-1. Push your code to GitHub.
-2. Sign in to **[Vercel](https://vercel.com/)** and import this repository.
-3. In **Settings ➜ Environment Variables**, add:
-   - `GMAIL_USER`
-   - `GMAIL_APP_PASS`
-4. Click **Deploy**. Vercel will automatically build the React bundle and deploy `/api/contact` as a serverless function!
+The portfolio includes a visitor counter with:
+
+- 🔢 Animated count-up effect
+- ⚡ Smooth transitions
+- 💾 Local-storage caching
+- 🔒 Privacy-conscious implementation
 
 ---
 
-<div align="center">
-  <p>Designed and engineered by <strong>Abhishek Kumar</strong></p>
-  <p>
-    <a href="https://github.com/Abhishek526-star">GitHub</a> •
-    <a href="https://www.linkedin.com/in/abhishek-kumar-521446294/">LinkedIn</a> •
-    <a href="https://leetcode.com/u/Abhishek_2k4/">LeetCode</a>
-  </p>
-</div>
+# 📱 Responsive Design
+
+The portfolio is designed for:
+
+- 🖥️ Desktop
+- 💻 Laptop
+- 📱 Mobile
+- 📟 Tablet
+
+Interactive components and navigation are optimized for touch interaction and smaller screens.
+
+---
+
+# 🚀 Deployment
+
+## Deploy with Vercel
+
+### 1. Push to GitHub
+
+```bash
+git add .
+git commit -m "Update portfolio"
+git push origin main
+```
+
+### 2. Import into Vercel
+
+Open:
+
+https://vercel.com/
+
+Import:
+
+```text
+Abhishek526-star/Portfolio
+```
+
+### 3. Add Environment Variables
+
+Go to:
+
+```text
+Vercel
+→ Project
+→ Settings
+→ Environment Variables
+```
+
+Add:
+
+```text
+GMAIL_USER
+GMAIL_APP_PASS
+```
+
+### 4. Deploy
+
+Vercel will build the React application and deploy the serverless API.
+
+---
+
+# 🔐 Security Notes
+
+If you fork or deploy this project:
+
+- Never upload `.env`
+- Never expose Gmail App Passwords
+- Keep credentials in environment variables
+- Use `.env.example` for documentation
+- Rotate credentials immediately if they are accidentally exposed
+- Never hard-code API keys in frontend files
+
+---
+
+# 📈 Development Roadmap
+
+- [ ] GitHub contribution heatmap
+- [ ] More detailed coding analytics
+- [ ] GitHub API caching
+- [ ] Project filtering by technology
+- [ ] Blog / technical articles section
+- [ ] Downloadable resume section
+- [ ] More interactive mini-games
+- [ ] Improved accessibility
+- [ ] Performance monitoring
+- [ ] SEO enhancements
+- [ ] Automated project statistics
+
+---
+
+# 📊 Developer Profile
+
+```text
+┌─────────────────────────────────────────────┐
+│              DEVELOPER PROFILE              │
+├─────────────────────────────────────────────┤
+│                                             │
+│  🚀 Full-Stack Development                  │
+│  ⚛️  React / Vite                           │
+│  🟢 Node.js / Express                       │
+│  🍃 MongoDB                                 │
+│  🤖 AI / Generative AI                      │
+│  🧠 Data Structures & Algorithms            │
+│  🎨 Interactive UI / 3D Web                 │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Abhishek526-star">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-521446294/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Abhishek_2k4/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like this project, consider giving it a star!
+
+Built with ❤️ and code by **Abhishek Kumar**
+
+</p>
+
+<p align="center">
+  <sub>© 2026 Abhishek Kumar • Developer Portfolio</sub>
+</p>
